@@ -8,7 +8,7 @@ I'm Yağmur Taze!
 <h2>💻 I'm Currently working on</h2>
 
 - Computer Vision
-- Artifical Intelligence
+- Artificial Intelligence
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurTaze&layout=compact&theme=dark)
   
