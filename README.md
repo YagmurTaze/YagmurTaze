@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YagmurTaze)](https://github.com/YagmurTaze) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YagmurTaze)]
 
 I'm Yağmur Taze! 
 
