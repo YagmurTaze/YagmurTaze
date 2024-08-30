@@ -11,6 +11,16 @@ I'm Yağmur Taze!
 - Artificial Intelligence
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurTaze&layout=compact&theme=dark)
+
+__Graduation Project:__
+
+<div>
+  <p>
+    <a href="https://github.com/YagmurTaze">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YagmurTaze&theme=dark&repo=OCR-ICR-Turkish" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
   
 <h2>📫 How to reach me:</h2>
 
