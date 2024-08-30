@@ -16,7 +16,7 @@ __Graduation Project:__
 
 <div>
   <p>
-    <a href="https://github.com/YagmurTaze">
+    <a href="https://github.com/YagmurTaze/OCR-ICR-Turkish">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=YagmurTaze&theme=dark&repo=OCR-ICR-Turkish" alt="GitHub Stats" />
     </a>
   </p>
