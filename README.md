@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YagmurTaze)]
+![](https://komarev.com/ghpvc/?username=YagmurTaze&color=000fff&abbreviated=true)
 
 I'm Yağmur Taze! 
 
