@@ -4,7 +4,7 @@
 
 I'm Yağmur Taze! 
 - Computer Engineer
-- 
+  
 <h2>💻 I'm Currently working on</h2>
 
 - Computer Vision
