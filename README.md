@@ -14,3 +14,5 @@ I'm Yağmur Taze!
 <a href="mailto:yagmurtaze@outlook.com">![yagmurtaze@outlook.com](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/yağmur-t-0388b7194/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurTaze&layout=compact)
+
